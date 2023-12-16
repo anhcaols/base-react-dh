@@ -4,9 +4,8 @@ import ProductDetailPage from "./pages/products/product-detail";
 import ProductsPage from "./pages/products";
 import ProfilePage from "./pages/profile";
 import NotificationsPage from "./pages/notifications";
-// import HomePage from "@src/pages/home";
 import MainLayout from "./layouts/MainLayout";
-import HomePage from "./pages/home";
+import HomePage from "@src/pages/home";
 
 function App() {
 	return (
